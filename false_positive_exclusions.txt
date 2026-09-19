@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -19,11 +20,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -51,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
