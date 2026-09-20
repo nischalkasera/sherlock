@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -20,7 +21,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 Minecraft
 ObservableHQ
 Odysee
