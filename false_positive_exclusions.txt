@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -51,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
