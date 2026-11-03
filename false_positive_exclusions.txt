@@ -1,9 +1,8 @@
 APClips
 Airliners
+Anilist
 Apple Developer
-Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -19,6 +18,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -43,4 +43,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
