@@ -1,7 +1,6 @@
-APClips
 Airliners
-Anilist
 Apple Developer
+Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
@@ -37,6 +36,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
