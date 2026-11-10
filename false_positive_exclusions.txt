@@ -3,8 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -16,15 +14,16 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Kvinneguiden
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -45,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
