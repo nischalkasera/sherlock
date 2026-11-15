@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +13,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +34,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -45,4 +43,3 @@ nnRU
 opennet
 phpRU
 social.tchncs.de
-xHamster
